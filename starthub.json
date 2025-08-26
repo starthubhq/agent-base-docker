@@ -1,0 +1,10 @@
+{
+  "name": "agent-base-docker",
+  "version": "0.0.1",
+  "kind": "docker",
+  "repository": "https://github.com/starthubhq/agent-base-docker",
+  "image": "ghcr.io/starthubhq/agent-base-docker",
+  "license": "MIT",
+  "inputs": [],
+  "outputs": []
+}

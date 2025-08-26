@@ -1,0 +1,7 @@
+*
+!entrypoint.sh
+!starthub.json
+!.dockerignore
+!.gitignore
+!README.md
+!Dockerfile
